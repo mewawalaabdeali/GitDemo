@@ -8,6 +8,13 @@ public class appiumTest {
 	public void appiumTest1()
 	{
 		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
+		System.out.println("Appium Test part 1");
 	}
 	
 	@Test
